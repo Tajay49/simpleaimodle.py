@@ -1,2 +1,2 @@
-# This is a simple Ai called james
+# This is a simple Ai called James
 
