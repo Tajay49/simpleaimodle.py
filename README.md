@@ -1,2 +1,2 @@
-# This is a simple Ai program code
+# This is a simple Ai called james
 
